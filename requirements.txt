@@ -1,0 +1,8 @@
+llama-index-core
+llama-index-readers-file
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+pypdf
+python-docx
+openpyxl
+pandas
